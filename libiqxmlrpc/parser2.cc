@@ -5,6 +5,7 @@
 #include <stdexcept>
 #include <libxml/xmlreader.h>
 #include <libxml/xmlIO.h>
+#include <libxml/xmlerror.h>
 #include "parser2.h"
 #include "except.h"
 #include <iostream>
